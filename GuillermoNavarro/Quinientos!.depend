@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1688049186 source:c:\users\ailin\onedrive\escritorio\guillermonavarro-judithdiaz\main.cpp
+	<iostream>
+	<ctime>
+	"rlutil.h"
+	"Funciones.h"
+
+1571584339 c:\users\ailin\onedrive\escritorio\guillermonavarro-judithdiaz\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1688141782 c:\users\ailin\onedrive\escritorio\guillermonavarro-judithdiaz\funciones.h
+
